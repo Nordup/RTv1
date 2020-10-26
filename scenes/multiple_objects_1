@@ -1,0 +1,14 @@
+name	point		direction		radius		color		smoothness
+
+cam		0,60,7		0,-3,0
+
+cne		-12,35,0	20,0,20			5			0xF8FF33	100
+
+cld		12,35,0		-20,0,20		3			0xdddddd	100
+
+pln		0,0,0		0,0,1			-			0x00ff00	0
+pln		0,-30,0		0,1,0			-			0x3C4dF7	0
+
+sph		0,35,1.5	-    			3			0xff0000	100
+
+lgt		-10,55,3		-    			-			0xffffff	-

@@ -1,0 +1,7 @@
+name	point		direction		radius		color		smoothness
+
+cam		11,0,5		-3,0,-1
+
+pln		0,0,0		0,0,1			-			0xffffff	0
+
+lgt		0,0,5		-    			-			0xffffff	-
