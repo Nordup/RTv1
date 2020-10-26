@@ -2,10 +2,10 @@
 Simple Ray tracing technique renderer
 
 ## Descriptioin:
-One rendered frame of scene, that is set in the file. Colored basic shapes: sphere, plane, cone, cylinder. Colored light points, some spots and shadows.
+One rendered frame of scene, that is set in the file. Colored basic shapes: sphere, plane, cone, cylinder. Colored light points, some spots and shadows. On Linux and MacOS
 
-Ray casting algorithm explanation:
-<>
+Ray tracing algorithm explanation:
+<img src="pictures/ray-tracing-image-1.jpg" width="500">
 
 ## Build:
 ```
@@ -31,6 +31,8 @@ make
   sph - sphere; pln - plane; cne - cone; cld - cylinder
 
 ## Screenshots:
-<>
-<>
-<>
+<img src="pictures/Screenshot from 2020-10-27 01-10-55.png" width="500">
+
+<img src="pictures/Screenshot from 2020-10-27 01-09-19.png" width="500">
+
+<img src="pictures/Screenshot from 2020-10-27 01-09-47.png" width="500">
