@@ -20,7 +20,7 @@
 # include <stdio.h>
 # include <fcntl.h>
 
-# define WIN_SIZE 900
+# define WIN_SIZE 950
 
 typedef struct	s_cal_clr
 {
